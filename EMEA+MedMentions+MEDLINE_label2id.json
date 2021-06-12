@@ -1,0 +1,23 @@
+{
+  "O": 0,
+  "B-CHEM": 1,
+  "B-PROC": 2,
+  "I-CHEM": 3,
+  "B-DISO": 4,
+  "I-DISO": 5,
+  "B-LIVB": 6,
+  "I-PROC": 7,
+  "B-ANAT": 8,
+  "I-ANAT": 9,
+  "B-DEVI": 10,
+  "B-OBJC": 11,
+  "I-LIVB": 12,
+  "B-PHEN": 13,
+  "B-PHYS": 14,
+  "I-PHYS": 15,
+  "I-PHEN": 16,
+  "B-GEOG": 17,
+  "I-GEOG": 18,
+  "I-OBJC": 19,
+  "I-DEVI": 20
+}
